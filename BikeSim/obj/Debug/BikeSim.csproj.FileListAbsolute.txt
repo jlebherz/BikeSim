@@ -1,0 +1,20 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\bin\Debug\BikeSim.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\bin\Debug\BikeSim.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\bin\Debug\BikeSim.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\obj\Debug\BikeSim.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\obj\Debug\BikeSim.Main.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\obj\Debug\BikeSim.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\obj\Debug\BikeSim.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\obj\Debug\BikeSim.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\obj\Debug\BikeSim.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeSim\BikeSim\obj\Debug\BikeSim.pdb
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\bin\Debug\BikeSim.exe.config
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\bin\Debug\BikeSim.exe
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\bin\Debug\BikeSim.pdb
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\obj\Debug\BikeSim.csprojResolveAssemblyReference.cache
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\obj\Debug\BikeSim.Main.resources
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\obj\Debug\BikeSim.Properties.Resources.resources
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\obj\Debug\BikeSim.csproj.GenerateResource.Cache
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\obj\Debug\BikeSim.csproj.CoreCompileInputs.cache
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\obj\Debug\BikeSim.exe
+C:\Users\John\Nextcloud\visualStudio\BikeSim\BikeSim\obj\Debug\BikeSim.pdb
